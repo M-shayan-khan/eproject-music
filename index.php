@@ -31,29 +31,6 @@
         <div class="loader"></div>
     </div>
 
-    <!-- Offcanvas Menu Begin -->
-    <div class="offcanvas-menu-overlay"></div>
-    <div class="offcanvas-menu-wrapper">
-        <div class="offcanvas__search">
-            <form action="#">
-                <input type="text" placeholder="Search and hit enter...">
-                <button type="submit"><i class="fa fa-search"></i></button>
-            </form>
-        </div>
-        <div class="offcanvas__logo">
-            <a href="./index.php"><img src="img/logo.png" alt=""></a>
-        </div>
-        <div id="mobile-menu-wrap"></div>
-        <div class="offcanvas__social">
-            <a href="#"><i class="fa fa-facebook"></i></a>
-            <a href="#"><i class="fa fa-twitter"></i></a>
-            <a href="#"><i class="fa fa-pinterest"></i></a>
-            <a href="#"><i class="fa fa-instagram"></i></a>
-            <a href="#"><i class="fa fa-dribbble"></i></a>
-        </div>
-    </div>
-    <!-- Offcanvas Menu End -->
-
     <!-- Hero Section Begin -->
     <section class="hero spad set-bg" data-setbg="img/hero/hero-bg.jpg">
         <div class="container">
